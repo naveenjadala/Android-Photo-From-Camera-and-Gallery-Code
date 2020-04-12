@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">AndroidCamGallery</string>
+    <array name="cam_gallery">
+        <item>cam</item>
+        <item>gallery</item>
+        <item>cancel</item>
+    </array>
+    <string name="cam">cam</string>
+    <string name="gallery">Gallery</string>
 </resources>
